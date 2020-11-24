@@ -1,0 +1,38 @@
+body {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    background: linear-gradient(to top left, #28b487, #7dd56f);
+}
+
+h1 {
+    font-family: sans-serif;
+    font-size: 50px;
+    line-height: 1.3;
+    width: 60%;
+    padding: 30px;
+    margin: auto;
+    color: white;
+}
+
+p {
+    font-family: sans-serif;
+    font-size: 25px;
+    color: white;
+}
+
+#logo,
+#logo2,
+#logo3 {
+    border-radius: 100%;
+}
+
+.intro {
+    padding: 0, 30%;
+    text-align: center;
+}
+
+.hov-click {
+    display: inline-block;
+    margin: 10px;
+}
