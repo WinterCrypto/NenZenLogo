@@ -12,6 +12,7 @@ h1 {
     width: 60%;
     padding: 30px;
     margin: auto;
+    margin-top: 3%;
     color: white;
 }
 
@@ -20,6 +21,8 @@ p {
     font-size: 25px;
     color: white;
 }
+
+
 
 #logo,
 #logo2,
@@ -32,7 +35,8 @@ p {
     text-align: center;
 }
 
-.hov-click {
+.inline {
+    position: relative;
     display: inline-block;
-    margin: 10px;
+    width: 20%;
 }

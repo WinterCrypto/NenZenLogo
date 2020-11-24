@@ -69,6 +69,7 @@ const rotateAnimation3 = (logo, speed) => {
         degrees3 = 1;
     }
     document.getElementById("infinity").innerHTML = "Click Infinity (" + degrees3 + "deg)";
+    document.getElementById("infinity").innerHTML = `Click Infinity (${degrees3}deg)`;
 
 };
 
